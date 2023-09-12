@@ -1,0 +1,27 @@
+{
+  "name": "shunt-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 7999",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/cssinjs": "^1.16.2",
+    "@monaco-editor/react": "^4.5.1",
+    "@types/node": "20.5.0",
+    "@types/react": "18.2.20",
+    "@types/react-dom": "18.2.7",
+    "antd": "^5.8.3",
+    "d3-scale": "^4.0.2",
+    "next": "13.4.13",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "typescript": "5.1.6",
+    "zx": "^7.2.3"
+  },
+  "devDependencies": {
+  }
+}
